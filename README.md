@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'am Frederico Correia Cerqueira 👋
 
 <!--
 **Frederico-CorreiaCerqueira/Frederico-CorreiaCerqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div >
+  <a href="https://www.linkedin.com/in/frederico-correia-cerqueira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Frederico-CorreiaCerqueira&show_icons=true&theme=catppuccin_latte"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frederico-CorreiaCerqueira&layout-compact&langs_count&theme=catppuccin_latte"/>
+</div>
+
+<div>
+  <a href="https://www.linkedin.com/in/frederico-correia-cerqueira" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+</div>
